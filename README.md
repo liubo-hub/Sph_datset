@@ -16,6 +16,8 @@ A high-performance implementation of Smooth Particle Hydrodynamics (SPH) simulat
   <img src="gif/Pearl_Tower.gif"  width="80%" height="80%" />
 </p>
 
+Here, Blender is used for rendering
+
 ## Features
 
 Currently, the following features have been implemented:

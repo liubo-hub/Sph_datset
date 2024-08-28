@@ -7,13 +7,13 @@ A high-performance implementation of Smooth Particle Hydrodynamics (SPH) simulat
 - Water floods the Dragon King's Temple
 
 <p align="center">
-  <img src="https://github.com/erizmr/SPH_Taichi/blob/master/data/gif/dragon_bath_large.gif" width="50%" height="50%" />
+  <img src="gif/Temple.gif" width="80%" height="80%" />
 </p>
 
 - Water floods the Pearl Tower
 
 <p align="center">
-  <img src="https://github.com/erizmr/SPH_Taichi/blob/master/data/gif/armadillo_bath.gif" width="50%" height="50%" />
+  <img src="gif/Pearl_Tower.gif"  width="80%" height="80%" />
 </p>
 
 ## Features
